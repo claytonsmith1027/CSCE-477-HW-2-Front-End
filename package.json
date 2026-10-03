@@ -1,0 +1,9 @@
+{
+  "name": "simple-secure-login-form",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small login-form demonstration with client- and server-side validation.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
